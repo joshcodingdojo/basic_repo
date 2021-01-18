@@ -1,0 +1,15 @@
+STEPS TAKEN:
+
+1. create github repo
+2. created local folder
+3. created files
+4. edited files
+5. initialized repo
+6. added origin
+7. add files 
+8, commit files
+9. push files
+10. edit files
+11. add files
+12. commit files
+13. push files
